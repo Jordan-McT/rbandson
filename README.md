@@ -1,1 +1,1 @@
-
+For my final university project, I collaborated with two teammates to assist RB & Son Transport in addressing their challenge of manually entering data. Our solution involved implementing Optical Character Recognition (OCR) technology to digitize documents, automatically input the data into a database, and enable the generation of Excel files for each driver, detailing their delivery schedules.
