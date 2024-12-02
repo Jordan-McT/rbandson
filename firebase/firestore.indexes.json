@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "DELIVERY",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "driver",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "delivery_date",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
