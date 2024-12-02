@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320054313505",
+    "project_id": "itdma-text-recognition-app",
+    "storage_bucket": "itdma-text-recognition-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320054313505:android:73bd33fdc625d71dacd960",
+        "android_client_info": {
+          "package_name": "com.mycompany.itdmatextrecognitionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQt-4UKtdtDcir70N0fHsaROikUsJEwkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
